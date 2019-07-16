@@ -31,7 +31,7 @@ nx = []
     nb.append(random.randrange(256))
     
     if __name__== "__main__":
-  generate_voronoi_diagram(500, 500, 5)
+  generate_voronoi_diagram(200, 100, 5)
 ```
 으로 교체하도록 한다.
  
